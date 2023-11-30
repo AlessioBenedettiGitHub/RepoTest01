@@ -1,2 +1,7 @@
 Verifica scritta di TPSIT-4°INF
 Secondo turno
+
+
+File aggiornato dal docente su copia clonata locale della originale repository
+Si attuerà un branch del versioning successivamente
+
